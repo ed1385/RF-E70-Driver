@@ -1,5 +1,5 @@
 # RF-E70-Driver
-Library for convenient management of the wireless module E70-868T14S
+Library PIC18F46k22 for convenient management of the wireless module E70-868T14S
 PIC18F46k22_mini_32_E70_868T14S.zip  - MPLAB-x 6.2 project 
  
  * File:   E70_868T14S.h
