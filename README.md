@@ -1,7 +1,7 @@
 # RF-E70-Driver
 Library for convenient management of the wireless module E70-868T14S
 PIC18F46k22_mini_32_E70_868T14S.zip  - MPLAB-x 6.2 project 
-/* 
+ 
  * File:   E70_868T14S.h
  * Author: eduard
  * Comments: Библиотека для удобного управления беспроводным модулем E70-868T14S.
@@ -17,4 +17,4 @@ PIC18F46k22_mini_32_E70_868T14S.zip  - MPLAB-x 6.2 project
  * v1.5 - Оптимизированы включения MCC Melody файлов, используя центральный system.h.
  * v1.6 - Разделение на .h (объявления) и .c (реализации) файлы.
  * v1.7 - Исправлены пути к eusart1.h и использование EUSART1_ функций.
- */
+
